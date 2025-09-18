@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "title": "Complete project proposal",
+    "description": "Finish the Q4 project proposal for the new marketing campaign",
+    "completed": false,
+    "priority": "high",
+    "category": "work",
+    "dueDate": "2024-01-15T09:00:00Z",
+    "createdAt": "2024-01-10T08:30:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 2,
+    "title": "Morning workout",
+    "description": "30-minute cardio session at the gym",
+    "completed": true,
+    "priority": "medium",
+    "category": "health",
+    "dueDate": "2024-01-12T07:00:00Z",
+    "createdAt": "2024-01-11T19:00:00Z",
+    "completedAt": "2024-01-12T07:15:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "Buy groceries",
+    "description": "Weekly grocery shopping - milk, bread, vegetables, fruits",
+    "completed": false,
+    "priority": "low",
+    "category": "personal",
+    "dueDate": "2024-01-14T18:00:00Z",
+    "createdAt": "2024-01-12T10:00:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 4,
+    "title": "Review monthly budget",
+    "description": "Analyze expenses and adjust budget for next month",
+    "completed": false,
+    "priority": "medium",
+    "category": "finance",
+    "dueDate": "2024-01-16T20:00:00Z",
+    "createdAt": "2024-01-10T14:30:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 5,
+    "title": "Read Chapter 5",
+    "description": "Complete reading assignment for JavaScript fundamentals course",
+    "completed": true,
+    "priority": "high",
+    "category": "learning",
+    "dueDate": "2024-01-11T23:59:00Z",
+    "createdAt": "2024-01-08T16:00:00Z",
+    "completedAt": "2024-01-11T21:30:00Z"
+  },
+  {
+    "Id": 6,
+    "title": "Call dentist",
+    "description": "Schedule regular cleaning appointment",
+    "completed": false,
+    "priority": "medium",
+    "category": "health",
+    "dueDate": "2024-01-13T17:00:00Z",
+    "createdAt": "2024-01-12T09:15:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 7,
+    "title": "Team meeting prep",
+    "description": "Prepare slides and agenda for tomorrow's team meeting",
+    "completed": true,
+    "priority": "high",
+    "category": "work",
+    "dueDate": "2024-01-12T16:00:00Z",
+    "createdAt": "2024-01-11T13:00:00Z",
+    "completedAt": "2024-01-12T15:45:00Z"
+  },
+  {
+    "Id": 8,
+    "title": "Clean living room",
+    "description": "Vacuum, dust, and organize the living room",
+    "completed": false,
+    "priority": "low",
+    "category": "home",
+    "dueDate": "2024-01-15T12:00:00Z",
+    "createdAt": "2024-01-12T11:00:00Z",
+    "completedAt": null
+  }
+]

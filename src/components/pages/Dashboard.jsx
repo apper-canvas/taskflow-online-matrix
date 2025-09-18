@@ -9,7 +9,7 @@ import Modal from "@/components/atoms/Modal"
 import TaskForm from "@/components/molecules/TaskForm"
 import Button from "@/components/atoms/Button"
 import taskService from "@/services/api/taskService"
-//import categoryService from "@/services/api/categoryService"
+import categoryService from "@/services/api/categoryService"
 
 const Dashboard = () => {
   const [tasks, setTasks] = useState([])
